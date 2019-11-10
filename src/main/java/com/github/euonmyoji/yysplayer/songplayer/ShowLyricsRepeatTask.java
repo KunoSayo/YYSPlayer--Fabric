@@ -1,4 +1,4 @@
-package com.github.euonmyoji.yysplayer.player;
+package com.github.euonmyoji.yysplayer.songplayer;
 
 import net.minecraft.client.MinecraftClient;
 

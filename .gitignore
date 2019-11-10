@@ -3,6 +3,7 @@
 out
 build
 gradle
+run
 
 *.iml
 *.ipr

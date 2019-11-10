@@ -19,7 +19,6 @@ import java.nio.ShortBuffer;
  */
 public class Util {
     public static JsonArray getSongJsonArray(String s) throws IOException {
-//        String urlB = String.format("http://up.chinesety.com:25589/search?keywords=%s&limit=1&type=1", URLEncoder.encode(s, "UTF-8"))
         String urlB = String.format("http://music.163.com/api/search/pc?s=%s&type=1&limit=1", URLEncoder.encode(s, "UTF-8"));
         URL url = new URL(urlB);
         URLConnection con = url.openConnection();

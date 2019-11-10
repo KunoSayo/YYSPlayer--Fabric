@@ -1,6 +1,6 @@
 package com.github.euonmyoji.yysplayer.command;
 
-import com.github.euonmyoji.yysplayer.player.SongPlayer;
+import com.github.euonmyoji.yysplayer.songplayer.SongPlayer;
 import com.github.euonmyoji.yysplayer.util.SongData;
 import com.github.euonmyoji.yysplayer.util.Util;
 import com.google.gson.JsonArray;
