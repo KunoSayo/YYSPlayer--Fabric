@@ -1,0 +1,5 @@
+{
+  "message.songInfo.seekInfo": "%.2f / %d",
+  "message.songInfo.gainInfo": "gain: %.2f / %d",
+  "message.songInfo.pitchInfo": "pitch: %.2f / %d"
+}

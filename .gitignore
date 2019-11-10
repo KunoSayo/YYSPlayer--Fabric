@@ -1,0 +1,13 @@
+.idea
+.gradle
+out
+build
+gradle
+
+*.iml
+*.ipr
+*.iws
+
+#for ..?
+.vs
+.vsc
