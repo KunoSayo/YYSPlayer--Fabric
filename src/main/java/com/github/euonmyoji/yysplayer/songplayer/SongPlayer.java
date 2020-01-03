@@ -2,6 +2,7 @@ package com.github.euonmyoji.yysplayer.songplayer;
 
 import com.github.euonmyoji.yysplayer.util.SongData;
 import net.minecraft.client.MinecraftClient;
+import net.minecraft.client.sound.AlUtil;
 import net.minecraft.text.Texts;
 import net.minecraft.text.TranslatableText;
 import org.bytedeco.javacv.FFmpegFrameGrabber;
